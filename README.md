@@ -1,29 +1,16 @@
-# README #
+This project contains a main class file, myclass.java that connects to the gmail and sheets api and reads and writes the data.
 
-This README would normally document whatever steps are necessary to get your application up and running.
+testcase.ps1 is a script to send email to the gmail account which can be accessed using the above program.
 
-### What is this repository for? ###
+Build.gradle has also been included in the proejct which contains all the required dependencies. 
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+It can be added to the IDE and directly ru using build.gradle and myclass as the main java file. 
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
 
-### Who do I talk to? ###
+"I authorize Prof.Grechanik and his RAs and TAs to use my google account credentials for this project for academic and research purposes. I understand the risk of sharing my private information with this account.
+Username: ssingh72.cs441@gmail.com
 
-* Repo owner or admin
-* Other community or team contact
+pw: 441cloud
